@@ -1,3 +1,5 @@
+----------------------------------------------------------------------------------
+
 This repository contain's java source codes for following programming concepts
 1. Array
 2. 2D Array
@@ -5,3 +7,5 @@ This repository contain's java source codes for following programming concepts
 4. Patterns
 5. Sorting
 6. Numbers
+
+----------------------------------------------------------------------------------
